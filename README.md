@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zaheerAamir
 - 👀 Right now i’m looking for a internship to get some industry level experience 
-- 🚀 I'm interested in working with javascript frameworks for now.Like React
-- 💻 I'm also looking forward to learn .NET frameworks so if u have any tips pls contact me 
-   my contact information will be down below.
+- 🚀 I'm interested in working with javascript frameworks for now.Like React and Next.JS
 - 📫 How to reach me : aamirzaheer95@gmail.com
 
 <!---
