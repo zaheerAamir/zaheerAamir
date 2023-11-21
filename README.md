@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaheerAamir
 - 👀 Right now i’m looking for a internship to get some industry level experience 
-- 🚀 I'm interested in working with javascript frameworks for now.Like React and Next.JS
+- 🚀 I'm interested in working in backend development with languages like Node.js with Typescript and Golang.
 - 📫 How to reach me : aamirzaheer95@gmail.com
 
 <!---
