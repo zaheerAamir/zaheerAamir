@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaheerAamir
-- 🚀 I'm interested in working in backend development with languages like Node.js with Typescript and Golang.
+- 🚀 I'm interested in working in backend development with languages like Node.js, Java, Golang.
 - 📫 How to reach me : aamirzaheer95@gmail.com
 
 <!---
